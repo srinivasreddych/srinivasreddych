@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Senior DevOps Consultant at Products and Solutions Org at AWS.
+I am a Director, Cloud Engineering Architect at S&P Global Ratings.
 
 - 🔭 I’m currently working on building the core IAC which are building blocks for every industry vertical [Industry Data Framework](https://github.com/awslabs/idf-modules)
 - 😄 Pronouns: he/him/his
