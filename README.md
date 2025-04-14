@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 I am a Director of Cloud Engineering at S&P Global Ratings.
 
-- 😄 Pronouns: he/him/his
-
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=srinivasreddych&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasreddych&layout=compact)
